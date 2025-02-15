@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hey there, I'm Mansi! 🚀</h1>
-###  🌟 DevOps Engineer | Cloud Enthusiast | Automation Geek 🤖
+###🌟 DevOps Engineer | Cloud Enthusiast | Automation Geek 🤖
 
 Welcome to my **DevOps Playground**!! 🎯 Here, you'll find my adventures in **AWS, Kubernetes, CI/CD, and Automation**. 
 > _"Why do it manually when you can automate it?"_  
