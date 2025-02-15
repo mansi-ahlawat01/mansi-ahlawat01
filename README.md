@@ -30,6 +30,6 @@ Welcome to my **DevOps Playground**!! 🎯 Here, you'll find my adventures in **
 
 ### 🌍 Let's Connect!  
 
-💼 **[LinkedIn](https://www.linkedin.com/in/mansi-ahlawat/)**  
-📧 **[Email](mailto:xyz.com)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/mansi-ahlawat-4368351a4/)**  
+📧 **[Email](mailto:mansi.ahlawat0102@gmail.com)**  
 
