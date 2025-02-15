@@ -1,6 +1,7 @@
 
 <h1 align="center">👋 Hey there, I'm Mansi! 🚀</h1>
-###🌟 DevOps Engineer | Cloud Enthusiast | Automation Geek 🤖
+<h3 align="center">🌟 DevOps Engineer | Cloud Enthusiast | Automation Geek 🤖</h3>
+
 
 Welcome to my **DevOps Playground**!! 🎯 Here, you'll find my adventures in **AWS, Kubernetes, CI/CD, and Automation**. 
 > _"Why do it manually when you can automate it?"_  
@@ -31,5 +32,5 @@ Welcome to my **DevOps Playground**!! 🎯 Here, you'll find my adventures in **
 ### 🌍 Let's Connect!  
 
 💼 **[LinkedIn](https://www.linkedin.com/in/mansi-ahlawat-4368351a4/)**  
-📧 **[Email](mailto:mansi.ahlawat0102@gmail.com)**  
+📧 **[Email](mailto:xyz.com)**  
 
